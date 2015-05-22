@@ -1,7 +1,7 @@
 {
   "name": "gintong",
-  "version": "0.0.1",
-  "description": "Modular front-end integrated solution for web",
+  "version": "0.0.2",
+  "description": "Modular front-end integrated solution for WEB",
   "main": "index.js",
   "preferGlobal": true,
   "bin": {
@@ -28,7 +28,7 @@
     "gintong-command-install": "0.0.1",
     "gintong-command-server": "0.0.1",
     "gintong-parser-stylus": "0.0.1",
-    "gintong-preprocessor-nightcss": "0.0.1"
+    "scrat-preprocessor-nightcss": "0.1.0"
   },
   "author": "gintong-team",
   "license": "MIT"
