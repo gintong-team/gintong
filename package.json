@@ -1,6 +1,6 @@
 {
   "name": "gintong",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Modular front-end integrated solution for WEB",
   "main": "index.js",
   "preferGlobal": true,
